@@ -1,0 +1,28 @@
+{
+  "name": "@womhla6s/ui-modules-rlregister",
+  "version": "1.0.0",
+  "description": "ui-modules-rlregister on frontend relbas",
+  "main": "rlregister.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "ux",
+    "module",
+    "bootstrap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/womhla6s/ui-modules-rlregister.git"
+  },
+  "author": "womhla6s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/womhla6s/ui-modules-rlregister/issues"
+  },
+  "homepage": "https://github.com/womhla6s/ui-modules-rlregister#readme",
+  "dependencies": {
+    "@womhla6s/ui-modules-cli": "^1.0.0"
+  }
+}
