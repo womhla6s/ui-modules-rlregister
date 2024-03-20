@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/womhla6s/ui-modules-rlregister#readme",
   "dependencies": {
-    "@womhla6s/ui-modules-cli": "^1.0.0"
+    "ui-modules-cli": "^1.0.1"
   }
 }
